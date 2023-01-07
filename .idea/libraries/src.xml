@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="src">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/jfreechart-1.5.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/sqlite-jdbc-3.40.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
